@@ -1,3 +1,6 @@
 [submodule "ignite-nodejs-mod1"]
 	path = ignite-nodejs-mod1
 	url = https://github.com/jeffsouza01/ignite-nodejs-mod1
+[submodule "ignite-nodejs-solid"]
+	path = ignite-nodejs-solid
+	url = https://github.com/jeffsouza01/ignite-nodejs-solid
