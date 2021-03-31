@@ -4,3 +4,6 @@
 [submodule "ignite-nodejs-solid"]
 	path = ignite-nodejs-solid
 	url = https://github.com/jeffsouza01/ignite-nodejs-solid
+[submodule "ignite-nodejs-middleware"]
+	path = ignite-nodejs-middleware
+	url = https://github.com/jeffsouza01/ignite-nodejs-middleware
