@@ -3,6 +3,12 @@
 Aqui estão desafios realizados dentro do bootcamp Ignite - NodeJS da Rocketseat.
 
 
+
+# Chapter I
+
+
+
+
 ## Desafio 1 - Conceito NodeJS
 ### [Conceito NodeJS](https://github.com/jeffsouza01/ignite-nodejs-mod1/tree/ad7c23a4dc631a1d385e29f563fa7777ded720b7)
 <p>Nesse desafio, foi criado uma aplicação para gerenciar tarefas (em inglês *todos*). 
@@ -64,6 +70,22 @@ Descrição de cada propriedade:
 - **likes** é a quantidade de likes que o repositório recebeu (e que vai ser incrementada de 1 em 1 a cada chamada na rota de likes).
 
 Note que a quantidade de likes deve sempre ser zero no momento de criação.
+
+
+
+# Chapter II
+
+
+
+## Desafio 01 - Introdução ao SOLID
+
+### [Introdução ao SOLID](https://github.com/jeffsouza01/ignite-nodejs-solid/tree/a6e98aa7b2f773739c18c517bd78e632fadc2d16)
+
+
+
+Nesse desafio, Foi criado uma de listagem e cadastro de usuários. Para que a listagem de usuários funcione, o usuário que solicita a listagem deve ser um admin.
+
+
 
 
 
