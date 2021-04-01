@@ -7,3 +7,6 @@
 [submodule "ignite-nodejs-middleware"]
 	path = ignite-nodejs-middleware
 	url = https://github.com/jeffsouza01/ignite-nodejs-middleware
+[submodule "ignite-nodejs-verify-code"]
+	path = ignite-nodejs-verify-code
+	url = https://github.com/jeffsouza01/ignite-nodejs-verify-code
